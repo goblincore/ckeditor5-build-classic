@@ -31,6 +31,7 @@
     "@ckeditor/ckeditor5-block-quote": "^19.0.0",
     "@ckeditor/ckeditor5-ckfinder": "^19.0.0",
     "@ckeditor/ckeditor5-core": "^19.0.0",
+    "@ckeditor/ckeditor5-markdown-gfm": "^22.0.0",
     "@ckeditor/ckeditor5-dev-utils": "^13.0.0",
     "@ckeditor/ckeditor5-dev-webpack-plugin": "^9.0.0",
     "@ckeditor/ckeditor5-easy-image": "^19.0.0",
@@ -95,7 +96,5 @@
       "pre-commit": "lint-staged"
     }
   },
-  "dependencies": {
-    "@ckeditor/ckeditor5-markdown-gfm": "^22.0.0"
-  }
+  "dependencies": {}
 }
